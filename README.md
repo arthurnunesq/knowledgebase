@@ -1,4 +1,5 @@
 # knowledgebase
 
 An image!
-![]({{site.baseurl}}/img/arthurnunesq_gravatar.png)
+
+![arthurnunesq_gravatar.png]({{site.baseurl}}/img/arthurnunesq_gravatar.png)
